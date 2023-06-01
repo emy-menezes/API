@@ -1,0 +1,2 @@
+O sistema consiste em uma aplicação de API que mostra o tempo, temperatura e o clima  das cidades: Tóquio, Oslo, Xangai, Osaka, Berlim, Denver, Moscou e Londres. A API utilizada foi retirada do site Openweathermap que oferece API's públicas. Para a
+construção do nosso site foram utilizadas as linguagens HTML5, CSS3 e JavaScript.
